@@ -26,11 +26,11 @@ export function getWordOfTheDay() {
 
 // copied from Wordle source
 const answers = [
-  'vixen',
-  'tests',
-  'check',
-  'world',
+  'exols',
+  'happy',
+  'tenth',
   'debut',
+  'world',
   'pecks',
   'growl',
   'gifts',
